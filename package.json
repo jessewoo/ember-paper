@@ -80,6 +80,7 @@
     "fastboot-transform": "^0.1.3",
     "hammerjs": "^2.0.8",
     "matchmedia-polyfill": "^0.3.2",
+    "material-components-web": "^5.1.0",
     "polyfill-nodelist-foreach": "^1.0.1",
     "propagating-hammerjs": "^1.4.7",
     "resolve": "^1.13.1",
